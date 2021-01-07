@@ -6,7 +6,7 @@
 6.porownanie najdrozszej ceny procesora ze srednia wszystkich cen 
 7.Pokazanie roznicy cen pomiedzy najdrozszym i najtanszym ramem w sklepie
 8.Pokazanie ile sa warte lacznie zasilacze do komputera w sklepie
-9.Pokazanie nazwiska klienta ktory zlozyl najdrozsze zamowienie w sklepie (Cos niedaila jak powino)
+9.Pokazanie nazwiska klienta ktory zlozyl najdrozsze zamowienie w sklepie
 10.Wyswietlenie ID_Klienta ktory zlozyl najdrozsze zamowienie
 
 CREATE VIEW widok AS
