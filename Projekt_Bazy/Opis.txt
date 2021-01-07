@@ -1,2 +1,3 @@
 Projekt ma być sklepem ktory zajmuje sie skladaniem komputerow na urzytkownikow(Klientow) 
 Bedzie przechowywac wszystkie podzespoly i ich parametry oraz dane klientow i co naj wazniejsze zamowienie ktore zlozyli
+Zklada sie ona z 9 tabel 
